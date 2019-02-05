@@ -1,24 +1,9 @@
 ## Last Week's Accomplishments
-
-> In this section, you can write about what you accomplished in the previous week.
-
-> This past week, I was able to implement the the dialog box for creating a new user in the front end. I \
-> learned how to send requests in JavaScript to the backend API.
-
+Last week I was able to find links to proximity sensors. I also did some research on raspberry pi which will be the main way we will use to read data.
 ## This Week's Plan
-
-> In this section, you can write about what you have planned for next week.
-
-> After my accomplishments from last week, I plan to add accessibility features to the user creation dialog box. \
-> I also plan on attending the git workshop this week.
-
+This week's plan is to try and finalize what parts we are going to use. We are also going to learn debian to help us with the sensors.
 ## Anything Blocking?
-
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> I don't know how to test the accessibility features I am going to be implementing this week, so i am going to \
-> ask my mentors if they have any suggestions.
-
+Not as of right now. But if there are any problems I will ask a mentor.
 ## Notes
 
 > This is an optional section for any sort of information that does not fall under any of the other categories.
