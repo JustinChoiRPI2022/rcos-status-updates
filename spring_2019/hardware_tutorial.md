@@ -10,3 +10,4 @@ with the raspberry pi. Liam told me to research and learn about I2C ports and co
 I learned alot about that and the gist of it is that you need a read and write function
 that will essentially just read and write information to and from a raspberry pi.
 Matthew and I also wrote some pseudocode about how we would determine if someone was in the room or not.
+We made it so that it would continuosuly read the temperature and change the bse line. That way, when there is a massive change (when someone enters the room) , it would determine that someone was in the room. There are a lot of test cases and we want to get more analytics such as hwo many people are in the room at a time and different time stamps when people leave. That is more work for next semster that I will definitely work on.
